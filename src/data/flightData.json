@@ -1,0 +1,46 @@
+[
+  {
+    "id": "WK2200",
+    "rows": 6,
+    "seatsPerAisle": 2,
+    "checkedin": false,
+    "services": [
+      "WiFi",
+      "Extra Luggage",
+      "Drinks",
+      "Entertainment",
+      "Comfort Packs"
+    ]
+  },
+  {
+    "id": "GB0070",
+    "rows": 10,
+    "seatsPerAisle": 3,
+    "checkedin": false,
+    "services": [
+      "WiFi",
+      "Extra Luggage",
+      "Drinks",
+      "Entertainment",
+      "Comfort Packs",
+      "Headrests",
+      "Magazine"
+    ]
+  },
+  {
+    "id": "GB8903",
+    "rows": 10,
+    "seatsPerAisle": 3,
+    "checkedin": false,
+    "services": [
+      "WiFi",
+      "Extra Luggage",
+      "Drinks",
+      "Entertainment",
+      "Duty Free Shopping",
+      "Comfort Packs",
+      "Seat backs",
+      "Tray tables"
+    ]
+  }
+]

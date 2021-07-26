@@ -1,0 +1,159 @@
+[
+  {
+    "id": "19767",
+    "from": "AUR",
+    "to": "TNR",
+    "flight": "WK2200",
+    "seats": [],
+    "services": [],
+    "passengers": [
+      {
+        "name": "Rick Sanchez",
+        "gender": "Male",
+        "Age": 70,
+        "passport": "DY357352"
+      },
+      {
+        "name": "Morty Smith",
+        "gender": "Male",
+        "Age": 14,
+        "passport": "DZ347981"
+      }
+    ],
+    "mealPreference": "noPref"
+  },
+  {
+    "id": "29459",
+    "from": "AUR",
+    "to": "TNR",
+    "flight": "WK2200",
+    "seats": [
+      1,
+      2
+    ],
+    "services": [
+      "WiFi",
+      "Comfort Packs"
+    ],
+    "passengers": [
+      {
+        "name": "Bird Person",
+        "gender": "Male",
+        "Age": 50,
+        "passport": "DY359876"
+      },
+      {
+        "name": "Tammy",
+        "gender": "Female",
+        "Age": 15,
+        "passport": "FZ347651"
+      }
+    ],
+    "mealPreference": "NonVegetarian"
+  },
+  {
+    "id": "77663",
+    "from": "AUR",
+    "to": "TNR",
+    "flight": "WK2200",
+    "seats": [
+      5,
+      6
+    ],
+    "services": [
+      "WiFi",
+      "Extra Luggage",
+      "Comfort Packs"
+    ],
+    "passengers": [
+      {
+        "name": "Alien Rick",
+        "gender": "Male",
+        "Age": 50,
+        "passport": "DY356676"
+      },
+      {
+        "name": "Alien Morty",
+        "gender": "Male",
+        "Age": 15,
+        "passport": "FZ389651"
+      }
+    ],
+    "mealPreference": "Vegetarian"
+  },
+  {
+    "id": "39657",
+    "from": "BDU",
+    "to": "HBE",
+    "flight": "GB0070",
+    "seats": [
+      3,
+      4,
+      5
+    ],
+    "services": [
+      "WiFi",
+      "Extra Luggage",
+      "Magazine"
+    ],
+    "passengers": [
+      {
+        "name": "Jerry Smith",
+        "gender": "Male",
+        "Age": 35,
+        "passport": "DY234433"
+      },
+      {
+        "name": "Beth Smith",
+        "gender": "Female",
+        "Age": 34,
+        "passport": "DZ765481"
+      },
+      {
+        "name": "Summer Smith",
+        "gender": "Female",
+        "Age": 17,
+        "passport": "DZ340098"
+      }
+    ],
+    "mealPreference": "SpecialMeals"
+  },
+  {
+    "id": "49321",
+    "from": "LAX",
+    "to": "KLA",
+    "flight": "GB8903",
+    "seats": [
+      13,
+      14
+    ],
+    "services": [
+      "WiFi",
+      "Extra Luggage",
+      "Drinks",
+      "Seat backs",
+      "Tray tables"
+    ],
+    "passengers": [
+      {
+        "name": "Nano Doctor",
+        "gender": "Male",
+        "Age": 38,
+        "passport": "KB927456"
+      },
+      {
+        "name": "Gloopy Noops",
+        "gender": "Male",
+        "Age": 44,
+        "passport": "ML764564"
+      },
+      {
+        "name": "Simon",
+        "gender": "Male",
+        "Age": 15,
+        "passport": "KK340935"
+      }
+    ],
+    "mealPreference": "noPref"
+  }
+]
